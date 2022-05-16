@@ -1,18 +1,5 @@
 {
-  "title": "NPT",
-  "type": "object",
-  "properties": {
-      "name": {
-          "type": "string",
-          "description": "NPT"
-      },
-      "description": {
-          "type": "string",
-          "description": "NFT Permissionless token"
-      },
-      "image": {
-          "type": "string",
-          "description": "https://i.ibb.co/Q9w5WCF/MMlogo.png"
-      }
-  }
+  "name": "NPT",
+  "description": "NFT Permissionless token",
+  "image": "https://i.ibb.co/Q9w5WCF/MMlogo.png"
 }
